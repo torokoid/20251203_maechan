@@ -258,9 +258,9 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <br><br>
 
-<h2><span class="yellow">今日のBGMは、Las 100 Mejores Baladas Romanticas En Ingles De Los 80 90 Mix - Musica Romantica De Amor</span></h2>
+<h2><span class="yellow">今日のBGMは、メタバース空間「妖精卿」で披露された、クリスマスミニアルバム</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y0iwpCodj6A?si=fZLhqo7663KYCccy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IgXruQb26jw?si=Yf04qh33SbTBNIvB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
 
