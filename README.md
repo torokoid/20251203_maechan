@@ -177,7 +177,7 @@ p.note { display: none; }
 <h2><span class="yellow">林の向こうには西陽</span></h2>
 <a href="20251203_003.JPG" target="_blank"><img src="20251203_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">農作業の休憩小屋</span></h2>
+<h2><span class="yellow">農作業の休憩小屋、監視カメラは動体検知してセルラー通信で持ち主のスマホに通知する優れもの</span></h2>
 <a href="20251203_004.JPG" target="_blank"><img src="20251203_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">手前は作付け直後の畑、奥はとうもろこし畑</span></h2>
